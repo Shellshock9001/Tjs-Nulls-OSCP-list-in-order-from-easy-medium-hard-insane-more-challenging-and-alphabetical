@@ -97,3 +97,24 @@
 | Bankrobber | Windows |
 | Brainfuck | Linux |
 
+---------------------------
+
+| More Challenging | Machine | | Difficulty
+| ------ | ------ |
+| Atom | Windows | Medium |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
+|  |  |
