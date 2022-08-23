@@ -4,9 +4,9 @@
 ------------------- 
 
 
-| Easy | Medium | Hard | Insane | Machine |
+| Easy | Machine |
 |------|--------|------|--------|---------|
-| Active |   |   |   | Windows |
+| Active | Windows |
 | Admirer |   |   |   | Linux   |
 | Armageddon |   |   |   | Linux  |
 | Artic |  |  |  | Windows |
