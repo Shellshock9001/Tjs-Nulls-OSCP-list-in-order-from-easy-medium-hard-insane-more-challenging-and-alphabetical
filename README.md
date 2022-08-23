@@ -102,19 +102,35 @@
 | More Challenging | Machine | Difficulty |
 | ------ | ------ | ------ |
 | Atom | Windows | Medium |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+| Bart | Windows | Medium |
+| Bitlab | Linux | Medium |
+| Blackfield | Windows | Hard |
+| Book | Linux | Medium |
+| Breadcrumbs | Windows | Hard |
+| Cascade | Windows | Medium |
+| Control | Windows | Hard |
+| DevOops | Linux | Medium |
+| Dynstr | Linux | Medium |
+| Falafel | Linux | Hard |
+| Hawk | Linux | Medium |
+| Jail | Linux | Insane |
+| Jeeves | Windows | Medium |
+| Kotarak | Linux | Hard |
+| LaCasaDePapel | Linux | Easy |
+| Lightweight | Linux | Medium |
+| Mango | Linux | Medium |
+| Monitors | Linux | Hard |
+| Monteverde | Windows | Medium |
+| Nest | Windows | Easy |
+| Netmon | Windows | Easy |
+| October | Linux | Medium |
+| Pikaboo | Linux | Hard |
+| Pivotapi | Windows | Insane |
+| Querier | Windows | Medium |
+| Quick | Linux | Hard |
+| Safe | Linux | Easy |
+| Sauna | Windows | Easy |
+| Sizzle | Windows | Insane |
+| Sniper | Windows | Medium |
+| Stacked | Linux | Insane |
+| Tally | Windows | Hard |
