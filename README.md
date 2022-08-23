@@ -4,16 +4,14 @@
 ------------------- 
 
 
-| Easy | Machine | Medium | Machine |
-| ---- | ------- | ------ | ------- |
-| Active | Windows | Bastard | Windows |
-| Admirer | Linux | Chatterbox | Windows |            
-| Armageddon | Linux | Cronos | Linux |
-| Artic | Windows | Forge | Linux |
-| Bashed | Linux | Fuse | Windows |
-| Bastion | Windows | Haircut | Linux |
-| Beep | Linux | Intelligence | Windows |
-| Blocky | Linux | Jarvis | Linux |
+| Easy | Machine |
+| ---- | ------- |
+| Active | Windows |
+| Armageddon | Linux |
+| Bashed | Linux |
+| Bastion | Windows |  
+| Beep | Linux |
+| Blocky | Linux |
 | Blunder | Linux |
 | Bounty | Windows |
 | Bust |  Windows |
@@ -37,3 +35,14 @@
 | Nibbles | Linux |
 | Omni | Windows |
 | OpenAdmin | Linux |
+
+
+
+| Medium | Machine |
+| ------ | ------- |
+| Bastard | Windows |
+| Cronos | Linux |
+| Fuse | Windows |
+| Haircut | Linux |
+| Intelligence | Windows |
+| Jarvis | Linux |
