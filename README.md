@@ -4,16 +4,16 @@
 ------------------- 
 
 
-| Easy | Machine |
-|------|--------|
-| Active | Windows |
-| Admirer | Linux   |
-| Armageddon | Linux  |
-| Artic | Windows |
-| Bashed | Linux |
-| Bastion | Windows |
-| Beep | Linux |
-| Blocky | Linux |
+| Easy | Machine |                    | Medium | Machine |
+|------|--------|                     |-------- | ---------|
+| Active | Windows |                  | Bastard | Windows |
+| Admirer | Linux |                   | Chatterbox | Windows |            
+| Armageddon | Linux |                | Cronos | Linux |
+| Artic | Windows |                   | Forge | Linux |
+| Bashed | Linux |                    | Fuse | Windows |
+| Bastion | Windows |                 | Haircut | Linux |
+| Beep | Linux |                      | Intelligence | Windows |
+| Blocky | Linux |                    | Jarvis | Linux |
 | Blunder | Linux |
 | Bounty | Windows |
 | Bust |  Windows |
