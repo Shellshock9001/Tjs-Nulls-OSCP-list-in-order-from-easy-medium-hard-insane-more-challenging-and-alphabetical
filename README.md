@@ -100,6 +100,6 @@
 ---------------------------
 
 | More Challenging | Machine | Difficulty |
-| ------ | ------ |
+| ------ | ------ | ------- |
 | Atom | Windows | Medium |
 
