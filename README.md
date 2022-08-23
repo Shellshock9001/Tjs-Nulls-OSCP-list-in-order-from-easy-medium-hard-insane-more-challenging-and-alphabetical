@@ -3,4 +3,5 @@
 
 
 | Easy | Medium | Hard | Insane | Machine |
+--------------------------------------------
 | Active |      |      |        | Windows |
