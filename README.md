@@ -99,7 +99,7 @@
 
 ---------------------------
 
-| More Challenging | Machine | | Difficulty
+| More Challenging | Machine | Difficulty |
 | ------ | ------ |
 | Atom | Windows | Medium |
 
