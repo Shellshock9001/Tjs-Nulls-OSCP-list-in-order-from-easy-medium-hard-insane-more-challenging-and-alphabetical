@@ -5,9 +5,9 @@
 
 
 | Easy | Machine |
-|------|--------|------|--------|---------|
+|------|--------|
 | Active | Windows |
-| Admirer |   |   |   | Linux   |
+| Admirer | Linux   |
 | Armageddon |   |   |   | Linux  |
 | Artic |  |  |  | Windows |
 | Bashed |  |  |  | Linux |
