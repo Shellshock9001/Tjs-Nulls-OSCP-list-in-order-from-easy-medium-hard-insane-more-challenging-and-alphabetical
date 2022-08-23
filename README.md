@@ -5,7 +5,7 @@
 
 
 | Easy | Machine | Medium | Machine |
-|------|-------- | ------ | ------- |
+| ---- | ------- | ------ | ------- |
 | Active | Windows | Bastard | Windows |
 | Admirer | Linux | Chatterbox | Windows |            
 | Armageddon | Linux | Cronos | Linux |
