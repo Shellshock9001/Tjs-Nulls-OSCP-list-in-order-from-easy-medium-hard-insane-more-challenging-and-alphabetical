@@ -36,7 +36,7 @@
 | Omni | Windows |
 | OpenAdmin | Linux |
 
-
+---------------------------
 
 | Medium | Machine |
 | ------ | ------- |
