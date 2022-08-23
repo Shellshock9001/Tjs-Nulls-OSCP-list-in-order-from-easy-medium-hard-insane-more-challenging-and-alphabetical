@@ -6,4 +6,4 @@
 
 | Easy | Medium | Hard | Insane | Machine |
 |------|--------|------|--------|---------|
-| Active |  x  |  x  |  x  | Windows |
+| Active |   |   |   | Windows |
