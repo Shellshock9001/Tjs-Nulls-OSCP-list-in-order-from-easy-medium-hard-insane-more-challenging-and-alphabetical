@@ -4,7 +4,7 @@
 ### Green = Linux
 ### Purple = Other
 
-### Tj's Null list in Order with Difficulty and Alphabetical. 
+## Tj's Null list in Order with Difficulty and Alphabetical. 
 
 ### Blue = Windows 
 ### Green = Linux
