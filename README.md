@@ -17,7 +17,6 @@
 
 
 
-
 | Easy | Machine |
 | ---- | ------- |
 | Active | Windows |
