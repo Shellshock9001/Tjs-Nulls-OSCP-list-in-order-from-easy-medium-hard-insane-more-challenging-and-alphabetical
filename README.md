@@ -10,7 +10,7 @@
 ## Purpose of this list is because I wanted an organized list to keep it neat. I wanted to color code it to know what kind of machine it was.
 ## Disclaimer: This is not my list. I mereley modified to fit "my" needs.<br>
 ## Credit/Acknowledgement: Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
-## Tj Null's Github [NetSecFocus](https://github.com/NetSec-Focus) and his.
+## Tj Null's Github [NetSecFocus](https://github.com/NetSec-Focus) and his. 
 ## 
 ![twitter](https://user-images.githubusercontent.com/110210595/186324350-dbccad32-c6a6-42cd-83a2-15b0e06e09f2.jpg)(https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) Twitter [Tony Tj Null](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
