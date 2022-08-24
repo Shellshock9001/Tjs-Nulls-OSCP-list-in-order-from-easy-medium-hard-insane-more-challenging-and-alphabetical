@@ -10,7 +10,7 @@
 ## Disclaimer: This is not my list. I mereley modified to fit "my" needs. 
 ## Credit/Acknowledgement: Here is a link to<br>
 ## Tj Null's Github [NetSecFocus](https://github.com/NetSec-Focus) and his<br>
-## twitter [Tony Tj Null](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+## Twitter [Tony Tj Null](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 | Easy | Machine |
 | ---- | ------- |
