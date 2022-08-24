@@ -12,7 +12,7 @@
 ## Credit/Acknowledgement: Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 ## Tj Null's Github [NetSecFocus](https://github.com/NetSec-Focus) and his.
 ## 
-![twitter] ![twitter](https://user-images.githubusercontent.com/110210595/186324151-56824173-8074-40c6-95ac-a921378d8d07.jpg) Twitter [Tony Tj Null](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+![twitter](https://user-images.githubusercontent.com/110210595/186324256-5618a161-a108-4c1b-b384-1f0d5497770d.jpg) Twitter [Tony Tj Null](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 --------------------------------------------------------------------
 
