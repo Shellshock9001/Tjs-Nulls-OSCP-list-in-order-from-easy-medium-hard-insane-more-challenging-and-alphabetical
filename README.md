@@ -11,7 +11,8 @@
 ## Disclaimer: This is not my list. I mereley modified to fit "my" needs.<br>
 ## Credit/Acknowledgement: Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 ## Tj Null's Github [NetSecFocus](https://github.com/NetSec-Focus) and his.
-## Twitter [Tony Tj Null](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+## 
+![twitter](https://user-images.githubusercontent.com/110210595/186323991-4547d047-d3c7-4c15-ab78-46b7b103efc0.jpg) Twitter [Tony Tj Null](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
 
 --------------------------------------------------------------------
 
