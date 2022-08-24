@@ -6,11 +6,6 @@
 
 ## Tj's Null list in Order with Difficulty and Alphabetical. 
 
-### Blue = Windows 
-### Green = Linux
-### Purple = Other
-------------------- 
-
 
 | Easy | Machine |
 | ---- | ------- |
