@@ -7,7 +7,7 @@ The purpose of this list is because I wanted an organized list to keep it neat a
 
 <h2><p align="center"> Disclaimer </p></h2>
 This is not my list. I mereley modified to fit "my" needs.<br>
-These rankings are not absolute. They are ranked based off the registered users on https://www.hackthebox.com/ who have successfully captured a user or root flag and rated the difficulty. A veteran user may have scored the machine easy but a beginner user may have scored that same machine hard. This is based off https://www.hackthebox.com/  ranking system alone.  
+These rankings are not absolute. They are ranked based off the registered users on https://www.hackthebox.com/ who have successfully captured a user or root flag and rated the difficulty of capturing that user or root flag. Example - A veteran user may have scored the machine easy but a beginner user may have scored that same machine hard. This is based off https://www.hackthebox.com/ ranking system alone.  
 
 
 <h2><p align="center"> Credit/Acknowledgement: </p></h2>
