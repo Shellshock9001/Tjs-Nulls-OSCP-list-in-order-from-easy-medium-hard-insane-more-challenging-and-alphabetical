@@ -13,8 +13,8 @@ This is not my list. I mereley modified to fit "my" needs.<br><br>
 Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
 
-![ twitter ](https://user-images.githubusercontent.com/110210595/186325703-edab88af-991e-4101-8343-d11386959f3a.jpg) [Tj_Null Twitter](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)<br>
-![ Github_image ](https://user-images.githubusercontent.com/110210595/186325266-f96bd298-776e-4e75-855a-b97920f68233.png)[TJ_Null Github](https://github.com/NetSec-Focus)<br><br>
+![twitter2](https://user-images.githubusercontent.com/110210595/186572755-39efee63-bda0-45f9-bb40-0c5d1f15ba3b.png)<br>
+![Github_image](https://user-images.githubusercontent.com/110210595/186572806-5ad1e3cd-aa4c-4bbb-8c0b-394a10787355.png)<br><br>
 
 
 ![Github_image](https://user-images.githubusercontent.com/110210595/186572806-5ad1e3cd-aa4c-4bbb-8c0b-394a10787355.png)
