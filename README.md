@@ -3,7 +3,7 @@
 
 ------------
 
-<p align="center" size=20>
+<p align="center">
 Purpose 
 </p>
 
