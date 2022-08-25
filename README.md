@@ -28,6 +28,7 @@ Purple = Other<br>
 
 ## Without further ado, Here's the list!
 
+https://github.com/Shellshock9001/Tjs-Nulls-OSCP-list_in-order-from-easy-medium-hard-insane-more-challenging-and-alphabetical/blob/main/Tj%20Null's%20OSCP%20LIST.pdf
 
 # Easy
 | Easy | Machine |
