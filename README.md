@@ -11,7 +11,10 @@ The purpose of this list is because I wanted an organized list to keep it neat a
 
 ------------
 
-<h2 align="center"> Disclaimer </h2>
+<p align="center">
+Disclaimer 
+</p>
+
 This is not my list. I mereley modified to fit "my" needs.
 
 ------------
