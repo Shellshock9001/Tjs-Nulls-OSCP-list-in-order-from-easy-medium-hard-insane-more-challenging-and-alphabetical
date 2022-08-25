@@ -109,7 +109,7 @@ Purple = Other<br>
 | Worker | Windows |
 | Writer | Linux |
 
-# Hard  [Back to top]
+# Hard  [Back to top](<a href="#top">Back to top</a>)
 
 | Hard | Machine |
 | ------ | ------- |
