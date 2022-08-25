@@ -17,7 +17,8 @@ The purpose of this list is because I wanted an organized list to keep it neat a
 <h2 align="center"> Disclaimer </h2>
 This is not my list. I mereley modified to fit "my" needs.
 
-Credit/Acknowledgement: Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
+<h2 align="center"> Credit/Acknowledgement: </h2>
+Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
 
 ## ![twitter](https://user-images.githubusercontent.com/110210595/186325703-edab88af-991e-4101-8343-d11386959f3a.jpg) [Tj_Null Twitter](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
