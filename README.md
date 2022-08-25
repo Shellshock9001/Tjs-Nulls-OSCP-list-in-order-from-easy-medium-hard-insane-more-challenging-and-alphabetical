@@ -4,7 +4,7 @@
 ------------
 
 
-<h2 align="center"> Purpose </h2>
+align="center" Purpose
 The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was.
 
 ------------
