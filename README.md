@@ -1,22 +1,19 @@
 <h1 align="center">Tj's Null list in Order with Difficulty and Alphabetical.</h1>
 
 
-<p align="center">
-Purpose 
-</p>
+<p align="center"> <h2> Purpose </h2> </p>
 
 The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was.
 
 ------------
 
 <p align="center"> <h2> Disclaimer </h2> </p>
+
 This is not my list. I mereley modified to fit "my" needs.
 
 ------------
 
-<p align="center">
-Credit/Acknowledgement:
-</p>
+<p align="center"> <h2> Credit/Acknowledgement: </h2> </p>
 
 Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
