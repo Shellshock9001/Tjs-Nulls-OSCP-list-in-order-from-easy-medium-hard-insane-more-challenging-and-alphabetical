@@ -13,12 +13,12 @@ This is not my list. I mereley modified to fit "my" needs.<br><br>
 Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
 
-![twitter2](https://user-images.githubusercontent.com/110210595/186572755-39efee63-bda0-45f9-bb40-0c5d1f15ba3b.png)<br>
+![twitter](https://user-images.githubusercontent.com/110210595/186572956-6abbf65f-595b-4aa6-be93-0c4edd50779f.png)[Tj_Nulls Twitter](https://twitter.com/TJ_Null?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
 ![Github_image](https://user-images.githubusercontent.com/110210595/186572806-5ad1e3cd-aa4c-4bbb-8c0b-394a10787355.png)<br><br>
 
 
-![Github_image](https://user-images.githubusercontent.com/110210595/186572806-5ad1e3cd-aa4c-4bbb-8c0b-394a10787355.png)
-![twitter2](https://user-images.githubusercontent.com/110210595/186572755-39efee63-bda0-45f9-bb40-0c5d1f15ba3b.png)
+
 
 
 
