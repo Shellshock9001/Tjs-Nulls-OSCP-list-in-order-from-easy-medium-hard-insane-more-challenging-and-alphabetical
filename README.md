@@ -1,6 +1,4 @@
 # <h1 align="center">Tj's Null list in Order with Difficulty and Alphabetical.</h1>
-
-
 ------------
 
 <p align="center">
