@@ -9,7 +9,7 @@ The purpose of this list is because I wanted an organized list to keep it neat a
 <h2><p align="center"> Disclaimer </p></h2>
 This is not my list. I mereley modified to fit "my" needs.
 
-
+# 
 <h2><p align="center"> Credit/Acknowledgement: </p></h2>
 Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
