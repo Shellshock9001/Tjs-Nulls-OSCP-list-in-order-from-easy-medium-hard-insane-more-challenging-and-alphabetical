@@ -7,8 +7,10 @@
 The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was.
 
 
+
 <h2><p align="center"> Disclaimer </p></h2>
 This is not my list. I mereley modified to fit "my" needs.
+
 
 
 <h2><p align="center"> Credit/Acknowledgement: </p></h2>
