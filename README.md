@@ -29,6 +29,7 @@ Purple = Other<br>
 ## Without further ado, Here's the list!
 
 
+# Easy
 | Easy | Machine |
 | ---- | ------- |
 | Active | Windows |
@@ -75,6 +76,7 @@ Purple = Other<br>
 | Tabby | Linux |
 | Valentine | Linux |
 
+# Medium
 ---------------------------
 
 | Medium | Machine |
@@ -107,6 +109,7 @@ Purple = Other<br>
 | Worker | Windows |
 | Writer | Linux |
 
+# Hard
 ---------------------------
 
 | Hard | Machine |
@@ -114,6 +117,7 @@ Purple = Other<br>
 | Conceal | Windows |
 | Object | Windows |
 
+# Insane
 ---------------------------
 
 | Insane | Machine |
@@ -122,6 +126,7 @@ Purple = Other<br>
 | Bankrobber | Windows |
 | Brainfuck | Linux |
 
+# More Challenging
 ---------------------------
 
 | More Challenging | Machine | Difficulty |
