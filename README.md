@@ -36,7 +36,7 @@ Purple = Other<br>
 
 # Easy
 
-Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Easy</em></strong>" by registered users who have completed caputuring either the user flag or root flag and have voted the difficulty rating.
+Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Easy</em></strong>" by registered users who have completed caputuring the user flag or root flag and have voted the difficulty rating.
 
 | Easy | Machine |
 | ---- | ------- |
@@ -87,7 +87,7 @@ Here is a list of machines that are on Tj Null's List and on https://www.hackthe
 <a href="#top">Back to top</a>
 
 # Medium
-Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Medium</em></strong>" by registered users who have completed caputuring either the user flag or root flag and have voted the difficulty rating.
+Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Medium</em></strong>" by registered users who have completed caputuring the user flag or root flag and have voted the difficulty rating.
 
 | Medium | Machine |
 | ------ | ------- |
@@ -122,7 +122,7 @@ Here is a list of machines that are on Tj Null's List and on https://www.hackthe
 <a href="#top">Back to top</a>
 
 # Hard 
-Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Hard</em></strong>" by registered users who have completed caputuring either the user flag or root flag and have voted the difficulty rating.
+Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Hard</em></strong>" by registered users who have completed caputuring the user flag or root flag and have voted the difficulty rating.
 
 | Hard | Machine |
 | ------ | ------- |
@@ -132,7 +132,7 @@ Here is a list of machines that are on Tj Null's List and on https://www.hackthe
 <a href="#top">Back to top</a>
 
 # Insane
-Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Insane</em></strong>" by registered users who have completed caputuring either the user flag or root flag and have voted the difficulty rating.
+Here is a list of machines that are on Tj Null's List and on https://www.hackthebox.com/ that have the rank considered "<em><strong>Insane</em></strong>" by registered users who have completed caputuring the user flag or root flag and have voted the difficulty rating.
 
 | Insane | Machine |
 | ------ | ------- |
