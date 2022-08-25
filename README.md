@@ -168,4 +168,4 @@ Purple = Other<br>
 | Stacked | Linux | Insane |
 | Tally | Windows | Hard |
 
-<a href="#top">Back to top</a>
+<a href="#top">End of the list. Back to top</a>
