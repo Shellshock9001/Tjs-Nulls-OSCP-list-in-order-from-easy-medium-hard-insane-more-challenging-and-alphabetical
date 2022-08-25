@@ -31,7 +31,6 @@ Purple = Other<br>
 [Tj Null's OSCP LIST.pdf](https://github.com/Shellshock9001/Tjs-Nulls-OSCP-list_in-order-from-easy-medium-hard-insane-more-challenging-and-alphabetical/blob/main/Tj%20Null's%20OSCP%20LIST.pdf)
 
 # Easy
-<a href="#top">Back to top</a>
 
 | Easy | Machine |
 | ---- | ------- |
@@ -79,8 +78,9 @@ Purple = Other<br>
 | Tabby | Linux |
 | Valentine | Linux |
 
-# Medium
 <a href="#top">Back to top</a>
+
+# Medium
 
 | Medium | Machine |
 | ------ | ------- |
@@ -112,8 +112,9 @@ Purple = Other<br>
 | Worker | Windows |
 | Writer | Linux |
 
-# Hard 
 <a href="#top">Back to top</a>
+
+# Hard 
 
 | Hard | Machine |
 | ------ | ------- |
@@ -121,7 +122,6 @@ Purple = Other<br>
 | Object | Windows |
 
 # Insane
-<a href="#top">Back to top</a>
 
 | Insane | Machine |
 | ------ | ------- |
@@ -129,8 +129,9 @@ Purple = Other<br>
 | Bankrobber | Windows |
 | Brainfuck | Linux |
 
-# More Challenging
 <a href="#top">Back to top</a>
+
+# More Challenging
 
 | More Challenging | Machine | Difficulty |
 | ------ | ------ | ------ |
