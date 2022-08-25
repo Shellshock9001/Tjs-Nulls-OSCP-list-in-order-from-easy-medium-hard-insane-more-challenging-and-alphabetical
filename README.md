@@ -1,4 +1,4 @@
-###<h1 align="center">Tj's Null list in Order with Difficulty and Alphabetical.</h1>
+<h1 align="center">Tj's Null list in Order with Difficulty and Alphabetical.</h1>
 
 
 
@@ -29,7 +29,7 @@ Purple = Other<br>
 
 
 
-### Without further ado, Here's the list!
+##Without further ado, Here's the list!
 
 
 | Easy | Machine |
