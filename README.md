@@ -6,8 +6,11 @@
 
 
 Tj's Null list in Order with Difficulty and Alphabetical. 
+
 Purpose of this list is because I wanted an organized list to keep it neat. I wanted to color code it to know what kind of machine it was.
+
 Disclaimer: This is not my list. I mereley modified to fit "my" needs.
+
 Credit/Acknowledgement: Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
 
