@@ -121,6 +121,8 @@ Purple = Other<br>
 | Conceal | Windows |
 | Object | Windows |
 
+<a href="#top">Back to top</a>
+
 # Insane
 
 | Insane | Machine |
