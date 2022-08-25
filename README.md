@@ -22,7 +22,6 @@ Here is a link to Tj Null's github and twitter! Go Check him out for more awesom
 A pdf file, Easy, Medium, Hard, Insane, More Challenging ranking machine list's in alphabetical order.
 
 
-
 # Tj Null's OSCP LIST.pdf
 In the PDF file you'll find that it is been color coded and with check boxes to mark off when you have completed them.<br>
 Blue = Windows<br>
