@@ -34,6 +34,8 @@ Purple = Other<br>
 
 # Easy
 
+Here is all the machines that are on https://www.hackthebox.com/ that have the rank considered "Easy" by users voting the difficulty rating. 
+
 | Easy | Machine |
 | ---- | ------- |
 | Active | Windows |
