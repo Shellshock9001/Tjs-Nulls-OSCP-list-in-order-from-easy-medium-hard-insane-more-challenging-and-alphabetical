@@ -19,7 +19,7 @@ Here is a link to Tj Null's github and twitter! Go Check him out for more awesom
 
 
 # What you'll find here. 
-A pdf file, Easy, Medium, Hard, Insane, More Challenging ranking machine list's in alphabetical order.<br><br>
+A pdf file, [Easy](https://github.com/Shellshock9001/Tjs-Nulls-OSCP-list_in-order-from-easy-medium-hard-insane-more-challenging-and-alphabetical/blob/main/README.md#easy), Medium, Hard, Insane, More Challenging ranking machine list's in alphabetical order.<br><br>
 
 
 # Tj Null's OSCP LIST.pdf
