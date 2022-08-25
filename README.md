@@ -29,7 +29,7 @@ Purple = Other<br>
 
 
 
-Without further ado, Here's the list!
+### Without further ado, Here's the list!
 
 
 | Easy | Machine |
