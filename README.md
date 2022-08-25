@@ -2,7 +2,7 @@
 
 
 <h2><p align="center"> Purpose </p></h2>
-The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was.<br><br>
+The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was. It is in no way considered more useful or worse or even needed.<br><br>
 
 
 <h2><p align="center"> Disclaimer </p></h2>
