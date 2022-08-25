@@ -1,8 +1,8 @@
 # Tj Nulls OSCP list
 ## In the PDF file you'll find that it is been color coded and with check boxes to mark off when you have completed them.
-Blue = Windows
-Green = Linux
-Purple = Other
+Blue = Windows<br>
+Green = Linux<br>
+Purple = Other<br>
 
 <h1 alingn="center">Tj's Null list in Order with Difficulty and Alphabetical.</h1>
 
