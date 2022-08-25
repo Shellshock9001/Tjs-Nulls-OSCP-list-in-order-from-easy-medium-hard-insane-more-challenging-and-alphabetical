@@ -10,7 +10,6 @@ The purpose of this list is because I wanted an organized list to keep it neat a
 ------------
 
 <p align="center"> <h2> Disclaimer </h2> </p>
-
 This is not my list. I mereley modified to fit "my" needs.
 
 ------------
