@@ -1,7 +1,9 @@
 <h1 align="center">Tj's Null list in Order with Difficulty and Alphabetical.</h1>
 
 
-<p align="center"> <h2> Purpose </h2> </p>
+<p align="center">
+<h2> Purpose </h2> 
+</p>
 
 The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was.
 
