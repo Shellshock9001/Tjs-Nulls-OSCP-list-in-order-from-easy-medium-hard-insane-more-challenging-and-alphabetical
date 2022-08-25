@@ -2,9 +2,9 @@
 
 
 
-<p align="center">
+<h2><p align="center">
  Purpose 
-</p>
+</p></h2>
 
 The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was.
 
