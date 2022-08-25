@@ -17,6 +17,10 @@ Here is a link to Tj Null's github and twitter! Go Check him out for more awesom
 ![ Github_image ](https://user-images.githubusercontent.com/110210595/186325266-f96bd298-776e-4e75-855a-b97920f68233.png)[TJ_Null Github](https://github.com/NetSec-Focus)<br><br>
 
 
+
+![twitter2](https://user-images.githubusercontent.com/110210595/186572314-3716b24c-e094-4a2c-bed5-6a3bc2861085.png)
+
+
 #  
 In the PDF file you'll find that it is been color coded and with check boxes to mark off when you have completed them.<br>
 Blue = Windows<br>
