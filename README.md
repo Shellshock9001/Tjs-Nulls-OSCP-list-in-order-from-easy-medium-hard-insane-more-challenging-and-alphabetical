@@ -17,7 +17,7 @@ Disclaimer
 
 This is not my list. I mereley modified to fit "my" needs.
 
-
+------------
 
 <h2 align="center"> Credit/Acknowledgement: </h2>
 
