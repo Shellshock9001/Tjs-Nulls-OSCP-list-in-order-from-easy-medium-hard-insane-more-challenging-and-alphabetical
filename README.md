@@ -110,7 +110,7 @@ Purple = Other<br>
 | Writer | Linux |
 
 # Hard 
-                                                                                                                    <a href="#top">Back to top</a>
+<a href="#top">Back to top</a>
 
 | Hard | Machine |
 | ------ | ------- |
