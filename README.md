@@ -13,11 +13,6 @@ This is not my list. I mereley modified to fit "my" needs.
 
 
 
-
-
-
-
-
 <h2><p align="center"> Credit/Acknowledgement: </p></h2>
 Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
