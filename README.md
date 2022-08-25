@@ -18,7 +18,8 @@ Here is a link to Tj Null's github and twitter! Go Check him out for more awesom
 
 
 
-![Github_image](https://user-images.githubusercontent.com/110210595/186572728-9b42ea37-b7fe-4358-af03-3d21a8278ad7.png)
+![Github_image](https://user-images.githubusercontent.com/110210595/186572728-9b42ea37-b7fe-4358-af03-3d21a8278ad7.png) 
+![twitter2](https://user-images.githubusercontent.com/110210595/186572755-39efee63-bda0-45f9-bb40-0c5d1f15ba3b.png)
 
 
 
