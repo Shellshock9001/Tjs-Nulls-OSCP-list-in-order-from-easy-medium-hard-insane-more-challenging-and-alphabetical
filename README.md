@@ -18,6 +18,7 @@ The purpose of this list is because I wanted an organized list to keep it neat a
 This is not my list. I mereley modified to fit "my" needs.
 
 <h2 align="center"> Credit/Acknowledgement: </h2>
+
 Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
 
