@@ -7,11 +7,11 @@
 The purpose of this list is because I wanted an organized list to keep it neat and in order. I wanted to color code it to know what kind of machine it was.
 
 
-<p align="center"> <h2> Disclaimer </h2> </p>
+<h2><p align="center"> Disclaimer </p></h2>
 This is not my list. I mereley modified to fit "my" needs.
 
 
-<p align="center"> <h2> Credit/Acknowledgement: </h2> </p>
+<h2><p align="center"> Credit/Acknowledgement: </p></h2>
 Here is a link to Tj Null's github and twitter! Go Check him out for more awesome cyber security contet.
 
 
