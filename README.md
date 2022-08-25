@@ -24,7 +24,8 @@ A [pdf file](https://github.com/Shellshock9001/Tjs-Nulls-OSCP-list_in-order-from
 https://github.com/Shellshock9001/Tjs-Nulls-OSCP-list_in-order-from-easy-medium-hard-insane-more-challenging-and-alphabetical/blob/main/README.md#insane), [More Challenging](https://github.com/Shellshock9001/Tjs-Nulls-OSCP-list_in-order-from-easy-medium-hard-insane-more-challenging-and-alphabetical/blob/main/README.md#more-challenging) ranking machine list's in alphabetical order.<br><br>
 
 
-# Tj Null's OSCP LIST.pdf
+<h2><p align="center"> Tj Null's OSCP LIST.pdf </p></h2>
+
 In the PDF file you'll find that it is been color coded and with check boxes to mark off when you have completed them.<br>
 Blue = Windows<br>
 Green = Linux<br>
