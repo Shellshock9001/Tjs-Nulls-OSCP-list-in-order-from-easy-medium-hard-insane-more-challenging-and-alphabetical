@@ -17,8 +17,8 @@ Here is a link to Tj Null's github and twitter! Go Check him out for more awesom
 ![ Github_image ](https://user-images.githubusercontent.com/110210595/186325266-f96bd298-776e-4e75-855a-b97920f68233.png)[TJ_Null Github](https://github.com/NetSec-Focus)<br><br>
 
 
+![Github_image](https://user-images.githubusercontent.com/110210595/186572806-5ad1e3cd-aa4c-4bbb-8c0b-394a10787355.png)
 
-![Github_image](https://user-images.githubusercontent.com/110210595/186572728-9b42ea37-b7fe-4358-af03-3d21a8278ad7.png) 
 ![twitter2](https://user-images.githubusercontent.com/110210595/186572755-39efee63-bda0-45f9-bb40-0c5d1f15ba3b.png)
 
 
