@@ -7,7 +7,7 @@ Purple = Other<br>
 <h1 alingn="center">Tj's Null list in Order with Difficulty and Alphabetical.</h1>
 
 
-<h2 align="center"> Purpose </h2>
+<h2 align="center"> Purpose </h2> 
 
 
 
